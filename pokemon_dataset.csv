@@ -1,0 +1,12 @@
+Pokemon,Level,Attack,Defense,Speed,Health
+Bulbasaur,5,49,49,45,318
+Ivysaur,16,62,63,60,405
+Venusaur,32,82,83,80,525
+Charmander,5,52,43,65,309
+Charmeleon,16,64,58,80,405
+Charizard,36,84,78,100,534
+Squirtle,5,48,65,43,314
+Wartortle,16,63,80,58,405
+Blastoise,36,83,100,78,530
+Pikachu,5,55,40,90,320
+Raichu,20,90,55,110,500
